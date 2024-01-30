@@ -1,0 +1,49 @@
+{
+  "name": "Project",
+  "format": "1.0.0",
+  "dependencies": [
+    {
+      "name": "Modelica",
+      "versionSpecifier": "4.0.0"
+    }
+  ],
+  "content": [
+    {
+      "relpath": "Resources/Views",
+      "contentType": "VIEWS",
+      "defaultDisabled": false,
+      "id": "5c7783d0fefd44c88e6cc3a006f03704"
+    },
+    {
+      "relpath": "Resources/Favorites",
+      "contentType": "FAVORITES",
+      "defaultDisabled": false,
+      "id": "f12bf3ac147f4e23b34480f6a05acd61"
+    },
+    {
+      "relpath": "Resources/CustomFunctions",
+      "contentType": "CUSTOM_FUNCTIONS",
+      "defaultDisabled": false,
+      "id": "6260ca62341448ea8869c70172d59a25"
+    },
+    {
+      "relpath": "Resources/Custom",
+      "contentType": "GENERIC",
+      "defaultDisabled": false,
+      "id": "3e3efc0523634749ab3653cc286110b2"
+    },
+    {
+      "relpath": "ReferenceResults",
+      "contentType": "REFERENCE_RESULTS",
+      "defaultDisabled": false,
+      "id": "d69b942925a5485988464420b13f86fd"
+    },
+    {
+      "relpath": "Resources/ExperimentDefinitions",
+      "contentType": "EXPERIMENT_DEFINITIONS",
+      "defaultDisabled": false,
+      "id": "34e516d47067496cacd3899099ff011d"
+    }
+  ],
+  "executionOptions": []
+}
